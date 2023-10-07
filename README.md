@@ -1,5 +1,10 @@
 # Color Flipper using JavaScript
 
+## Url
+https://anupam-singh88.github.io/color-flipper-js/
+
+![image](https://github.com/anupam-singh88/color-flipper-js/assets/89381022/3739101f-60bd-4045-abee-9cedcb728eb5)
+
 ## Description
 This is a JavaScript project that creates a color flipper application. The application generates a random color for the background using JavaScript functions or any color input by the user in the search box.
 
@@ -18,5 +23,3 @@ This is a JavaScript project that creates a color flipper application. The appli
 2. Open the `index.html` file in your browser.
 3. Click the button to change the background color to a random color, or input a specific color in the search box.
 
-## Url
-https://anupam-singh88.github.io/color-flipper-js/
